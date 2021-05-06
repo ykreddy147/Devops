@@ -6,3 +6,6 @@ public with sharing class Calculator {
         return a+b;
     }
 }
+public interger null(integer a,integer b){
+        return a*b;
+}
